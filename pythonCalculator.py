@@ -37,5 +37,5 @@ def main():
 
     display_year_calendar(selected_year)
 
-if name == "main":
+if _name_ == "_main_":
     main()
